@@ -17,12 +17,12 @@ h1.h1 {
 }
 
 h1.h2 {
-  font: bold 2em;
+  font: bold 1.8em;
   line-height: 1.1;
 }
 
 p.text {
-font: 1.6em Helvetica, Arial, sans-serif;;
+font: 1.3em;
 margin-top: 0;
 margin-bottom: 1em;	
 }
