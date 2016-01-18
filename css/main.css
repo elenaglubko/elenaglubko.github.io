@@ -4,11 +4,21 @@ a:link, a.novisited:visited, .novisited a:visited, .novisited a.no-u:visited u {
 }
 
 h1 {
-  font: bold 2.625em Verdana, Arial, sans-serif bold;
+  font: bold 2.625em;
   line-height: 1.1;
 }
 
 h2 {
-  font: bold 1.5em Verdana, Arial, sans-serif bold;
+  font: bold 2em;
   line-height: 1.1;
+}
+
+.text {
+font: 1.6em;
+margin-top: 0;
+margin-bottom: 1em;	
+}
+
+.side {
+	font: 0.8em Verdana, Arial, sans-serif;
 }
