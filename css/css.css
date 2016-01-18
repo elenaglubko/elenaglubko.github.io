@@ -1,0 +1,24 @@
+a:link, a.novisited:visited, .novisited a:visited, .novisited a.no-u:visited u {
+  border-color: #487b95;
+  border-color: rgba(12, 79, 114, 0.2);
+}
+
+h1 {
+  font: bold 2.625em;
+  line-height: 1.1;
+}
+
+h2 {
+  font: bold 1.6em;
+  line-height: 1.1;
+}
+
+p {
+font: 1.3em;
+margin-top: 0;
+margin-bottom: 1em;	
+}
+
+p-side {
+	font: 0.8em Verdana, Arial, sans-serif;
+}
